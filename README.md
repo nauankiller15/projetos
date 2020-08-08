@@ -1,2 +1,0 @@
-# projetos
-Meus projetos criados!

@@ -1,0 +1,236 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: #82dcdf;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #316264;
+    text-decoration: none;
+}
+
+.titulo {
+    font-family: Agency FB;
+    font-size: 202%;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #5d7d7e;
+    margin: 50px auto 0px;
+    text-align: center;
+}
+
+body {
+    font-size: 100%;
+    background: #f9f8ff;
+}
+
+.inicio {
+    width: 65%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #5f9ea0;
+    text-align: center;
+    padding: 30px;
+}
+
+.inicio h2 {
+    font-family: Agency FB;
+    font-size: 132%;
+    text-transform: uppercase;
+}
+
+.inicio2 {
+    margin: 20px auto 0px;
+    width: 60%;
+}
+
+.inicio2 a {
+    color: white;
+}
+
+.inicio2 a:hover {
+    color: #5f9ea0;
+}
+
+.inicio2 span {
+    width: 25%;
+    color: white;
+    background: #5f9ea0;
+    text-align: center;
+    padding: 30px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+    display: block;
+}
+
+.incio2 span:hover {
+    background: #315a5c;
+}
+
+.inicio2 h2 {
+    font-family: Agency FB;
+    font-size: 132%;
+    text-transform: uppercase;
+}
+
+.header {
+    width: 30%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #5f9ea0;
+    text-align: center;
+    border: 1px solid #b0c4de;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+
+.header h2 {
+    font-family: Agency FB;
+    font-size: 132%;
+    text-transform: uppercase;
+}
+
+form {
+    width: 30%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #b0c4de;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+    font-family: Arial;
+}
+
+form a {
+    color: #5f9ea0;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 3px;
+}
+
+form a:hover {
+    color: #5d7d7e;
+}
+
+form p {
+    margin: 6px;
+    text-align: center;
+    float: center;
+    display: block;
+    margin: 10px auto;
+}
+
+.input-group {
+    margin: 10 px 0px 10px 0px;
+}
+
+.input-group label {
+    display: block;
+    text-align: left;
+    margin: 3px;
+}
+
+.input-group input {
+    margin-top: 10px;
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    display: block;
+    font-size: 19px;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 14px;
+    color: white;
+    background: #5f9ea0;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    width: 60%;
+    display: block;
+    float: center;
+    margin: 25px auto;
+}
+
+.btn:hover {
+    background: rgb(10, 59, 68);
+}
+
+.btn:onclick {
+    border: 1px solid rgb(255, 255, 255);
+    background: rgb(24, 40, 70);
+}
+
+.error {
+    padding: 6px;
+    margin-top: 1px;
+    margin-bottom: 12px;
+    border: 1px solid #a94442;
+    color: #a94422;
+    background-color: #f2dede;
+    border-radius: 5px;
+    text-align: center;
+    float: center;
+    display: block;
+}
+
+.content {
+    width: 25%;
+    margin: 20px auto 0px;
+    color: white;
+    background: #5f9ea0;
+    text-align: center;
+    float: center;
+    display: block;
+}
+
+.errorsucess {
+    padding: 12px;
+    margin-top: 12px;
+    margin-bottom: 3px;
+    border: 1px solid #127728;
+    color: #127728;
+    background-color: #c7eec4;
+    border-radius: 5px;
+    text-align: center;
+    float: center;
+    display: block;
+    font-style: arial;
+    font-size: 18px;
+}
+
+.logintop {
+    margin-top: -50px;
+    color: black;
+    background: #5f9ea0;
+    width: 100%;
+    padding: 6px;
+    float: right;
+    font-family: Arial;
+}
+
+.logintop p {
+    color: white;
+    float: right;
+}
+
+.logintop a {
+    color: rgb(161, 41, 41);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.logintop a:hover {
+    color: #f86a68;
+}
